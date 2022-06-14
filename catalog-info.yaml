@@ -4,6 +4,7 @@ metadata:
   name: just-a-test
   annotations:
     github.com/project-slug: GoblinHero-Scribd/just-a-test
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
