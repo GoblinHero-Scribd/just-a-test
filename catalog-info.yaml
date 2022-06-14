@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: just-a-test
+  annotations:
+    github.com/project-slug: GoblinHero-Scribd/just-a-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
